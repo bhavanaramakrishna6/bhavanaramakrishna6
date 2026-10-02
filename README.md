@@ -62,9 +62,13 @@ Hi, I'm Bhavana! I enjoy turning ideas into useful applications—from tools for
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" /> &nbsp;
 </p>
 
-<p><strong>Web & APIs</strong><br /><img src="./react.svg" alt="React" height="34" /> <img src="./tailwind-css.svg" alt="Tailwind CSS" height="34" /> <img src="./node-js.svg" alt="Node.js" height="34" /> <img src="./express.svg" alt="Express" height="34" /> <img src="./flask.svg" alt="Flask" height="34" /></p>
+<p><strong>Web & APIs</strong><br />
+  <img src="./web-icons.svg" alt="React, Tailwind CSS, Node.js, Express, Flask" title="React, Tailwind CSS, Node.js, Express, Flask" width="276" height="44" />
+</p>
 
-<p><strong>Data & tools</strong><br /><img src="./mongodb.svg" alt="MongoDB" height="34" /> <img src="./kafka.svg" alt="Kafka" height="34" /> <img src="./git.svg" alt="Git" height="34" /> <img src="./jupyter.svg" alt="Jupyter" height="34" /></p>
+<p><strong>Data & tools</strong><br />
+  <img src="./data-icons.svg" alt="MongoDB, Apache Kafka, Git, Jupyter" title="MongoDB, Apache Kafka, Git, Jupyter" width="218" height="44" />
+</p>
 
 ## Beyond the main projects
 
