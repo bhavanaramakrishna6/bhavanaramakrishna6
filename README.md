@@ -56,7 +56,11 @@ Hi, I'm Bhavana! I enjoy turning ideas into useful applications—from tools for
 
 ## My toolbox
 
-<p><strong>Languages</strong><br /><img src="./python.svg" alt="Python" height="34" /> <img src="./javascript.svg" alt="JavaScript" height="34" /> <img src="./typescript.svg" alt="TypeScript" height="34" /></p>
+<p><strong>Languages</strong><br />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="44" height="44" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" /> &nbsp;
+</p>
 
 <p><strong>Web & APIs</strong><br /><img src="./react.svg" alt="React" height="34" /> <img src="./tailwind-css.svg" alt="Tailwind CSS" height="34" /> <img src="./node-js.svg" alt="Node.js" height="34" /> <img src="./express.svg" alt="Express" height="34" /> <img src="./flask.svg" alt="Flask" height="34" /></p>
 
