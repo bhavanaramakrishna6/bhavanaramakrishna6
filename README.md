@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Hi, I'm Bhavana Ramakrishna. I build full-stack applications and explore data and machine learning." width="100%" />
+  <img src="./banner.gif" alt="Hi, I'm Bhavana Ramakrishna. I build full-stack applications and explore data and machine learning." width="100%" />
 </p>
 
 <p align="center">
@@ -26,13 +26,13 @@ Hi, I'm Bhavana! I enjoy turning ideas into useful applications—from tools for
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhavanaramakrishna6/Kinnected"><img src="./assets/kinnected.svg" alt="Kinnected — full-stack social networking application" width="100%" /></a>
+      <a href="https://github.com/bhavanaramakrishna6/Kinnected"><img src="./kinnected.svg" alt="Kinnected — full-stack social networking application" width="100%" /></a>
       <p><strong>Kinnected</strong><br />A social networking app with login, registration and JWT authentication.</p>
       <p><sub>React · TypeScript · Node.js · Express · MongoDB</sub></p>
       <p><a href="https://github.com/bhavanaramakrishna6/Kinnected">Code ↗</a> &nbsp;·&nbsp; <a href="https://kinnected-zeta.vercel.app">Live app ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhavanaramakrishna6/marks_management"><img src="./assets/marks.svg" alt="Marks Management — student and faculty dashboards" width="100%" /></a>
+      <a href="https://github.com/bhavanaramakrishna6/marks_management"><img src="./marks.svg" alt="Marks Management — student and faculty dashboards" width="100%" /></a>
       <p><strong>Marks Management</strong><br />A marks management app with separate student and faculty dashboards.</p>
       <p><sub>React · JavaScript · Tailwind CSS · Vite</sub></p>
       <p><a href="https://github.com/bhavanaramakrishna6/marks_management">Code ↗</a> &nbsp;·&nbsp; <a href="https://marks-management-ruddy.vercel.app">Live app ↗</a></p>
@@ -40,13 +40,13 @@ Hi, I'm Bhavana! I enjoy turning ideas into useful applications—from tools for
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhavanaramakrishna6/Kafka-Project"><img src="./assets/kafka.svg" alt="Kafka Click Analytics — Flask click tracking and a Kafka consumer" width="100%" /></a>
+      <a href="https://github.com/bhavanaramakrishna6/Kafka-Project"><img src="./kafka-project.svg" alt="Kafka Click Analytics — Flask click tracking and a Kafka consumer" width="100%" /></a>
       <p><strong>Kafka Click Analytics</strong><br />A Flask click-tracking app with a Kafka consumer for per-user event counts.</p>
       <p><sub>Python · Flask · Apache Kafka</sub></p>
       <p><a href="https://github.com/bhavanaramakrishna6/Kafka-Project">Code ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhavanaramakrishna6/attendance_marking_ssystem"><img src="./assets/attendance.svg" alt="Attendance Manager — class creation, attendance marking and records" width="100%" /></a>
+      <a href="https://github.com/bhavanaramakrishna6/attendance_marking_ssystem"><img src="./attendance.svg" alt="Attendance Manager — class creation, attendance marking and records" width="100%" /></a>
       <p><strong>Attendance Manager</strong><br />A web app for adding classes, marking attendance and viewing attendance records.</p>
       <p><sub>React · JavaScript · Vite</sub></p>
       <p><a href="https://github.com/bhavanaramakrishna6/attendance_marking_ssystem">Code ↗</a> &nbsp;·&nbsp; <a href="https://attendance-marking-ssystem.vercel.app">Live app ↗</a></p>
@@ -56,11 +56,11 @@ Hi, I'm Bhavana! I enjoy turning ideas into useful applications—from tools for
 
 ## My toolbox
 
-<p><strong>Languages</strong><br /><img src="./assets/skills/python.svg" alt="Python" height="34" /> <img src="./assets/skills/javascript.svg" alt="JavaScript" height="34" /> <img src="./assets/skills/typescript.svg" alt="TypeScript" height="34" /></p>
+<p><strong>Languages</strong><br /><img src="./python.svg" alt="Python" height="34" /> <img src="./javascript.svg" alt="JavaScript" height="34" /> <img src="./typescript.svg" alt="TypeScript" height="34" /></p>
 
-<p><strong>Web & APIs</strong><br /><img src="./assets/skills/react.svg" alt="React" height="34" /> <img src="./assets/skills/tailwind-css.svg" alt="Tailwind CSS" height="34" /> <img src="./assets/skills/node-js.svg" alt="Node.js" height="34" /> <img src="./assets/skills/express.svg" alt="Express" height="34" /> <img src="./assets/skills/flask.svg" alt="Flask" height="34" /></p>
+<p><strong>Web & APIs</strong><br /><img src="./react.svg" alt="React" height="34" /> <img src="./tailwind-css.svg" alt="Tailwind CSS" height="34" /> <img src="./node-js.svg" alt="Node.js" height="34" /> <img src="./express.svg" alt="Express" height="34" /> <img src="./flask.svg" alt="Flask" height="34" /></p>
 
-<p><strong>Data & tools</strong><br /><img src="./assets/skills/mongodb.svg" alt="MongoDB" height="34" /> <img src="./assets/skills/kafka.svg" alt="Kafka" height="34" /> <img src="./assets/skills/git.svg" alt="Git" height="34" /> <img src="./assets/skills/jupyter.svg" alt="Jupyter" height="34" /></p>
+<p><strong>Data & tools</strong><br /><img src="./mongodb.svg" alt="MongoDB" height="34" /> <img src="./kafka.svg" alt="Kafka" height="34" /> <img src="./git.svg" alt="Git" height="34" /> <img src="./jupyter.svg" alt="Jupyter" height="34" /></p>
 
 ## Beyond the main projects
 
@@ -71,5 +71,5 @@ Hi, I'm Bhavana! I enjoy turning ideas into useful applications—from tools for
 | [Machine Learning Notebooks](https://github.com/bhavanaramakrishna6/Bhavana-sML) | Coursework, assignments and experiments in ML and deep learning. |
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="Always curious. Always building." width="100%" />
+  <img src="./footer.svg" alt="Always curious. Always building." width="100%" />
 </p>
