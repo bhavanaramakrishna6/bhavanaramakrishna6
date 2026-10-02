@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img"><title>Bhavana Ramakrishna — full-stack, data and machine learning</title>
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111329"/><stop offset="0.62" stop-color="#231c48"/><stop offset="1" stop-color="#31234a"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#a889ff" stop-opacity="0.23"/><stop offset="1" stop-color="#a889ff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line"><stop stop-color="#b398ff"/><stop offset="1" stop-color="#f4b4cd"/></linearGradient>
+ </defs>
+ <rect width="1400" height="440" rx="24" fill="url(#bg)"/>
+ <circle cx="1160" cy="188" r="390" fill="url(#glow)"/>
+ <path d="M0 399 C320 362 450 438 770 392 S1120 361 1400 385" fill="none" stroke="#a68aff" stroke-opacity="0.19"/>
+ <path d="M0 415 C290 372 455 451 790 408 S1100 381 1400 404" fill="none" stroke="#f4b4cd" stroke-opacity="0.13"/>
+ <circle cx="38" cy="34" r="2.1" fill="#e0d9ff" opacity="0.42"/><circle cx="175" cy="101" r="1.1" fill="#e0d9ff" opacity="0.55"/><circle cx="312" cy="168" r="1.1" fill="#e0d9ff" opacity="0.63"/><circle cx="449" cy="235" r="1.1" fill="#e0d9ff" opacity="0.63"/><circle cx="586" cy="302" r="2.1" fill="#e0d9ff" opacity="0.56"/><circle cx="723" cy="369" r="1.1" fill="#e0d9ff" opacity="0.44"/><circle cx="860" cy="76" r="1.1" fill="#e0d9ff" opacity="0.31"/><circle cx="997" cy="143" r="1.1" fill="#e0d9ff" opacity="0.22"/><circle cx="1134" cy="210" r="2.1" fill="#e0d9ff" opacity="0.20"/><circle cx="1271" cy="277" r="1.1" fill="#e0d9ff" opacity="0.26"/><circle cx="88" cy="344" r="1.1" fill="#e0d9ff" opacity="0.38"/><circle cx="225" cy="51" r="1.1" fill="#e0d9ff" opacity="0.51"/><circle cx="362" cy="118" r="2.1" fill="#e0d9ff" opacity="0.61"/><circle cx="499" cy="185" r="1.1" fill="#e0d9ff" opacity="0.64"/><circle cx="636" cy="252" r="1.1" fill="#e0d9ff" opacity="0.59"/><circle cx="773" cy="319" r="1.1" fill="#e0d9ff" opacity="0.48"/><circle cx="910" cy="386" r="2.1" fill="#e0d9ff" opacity="0.35"/><circle cx="1047" cy="93" r="1.1" fill="#e0d9ff" opacity="0.24"/><circle cx="1184" cy="160" r="1.1" fill="#e0d9ff" opacity="0.20"/><circle cx="1321" cy="227" r="1.1" fill="#e0d9ff" opacity="0.24"/><circle cx="138" cy="294" r="2.1" fill="#e0d9ff" opacity="0.34"/><circle cx="275" cy="361" r="1.1" fill="#e0d9ff" opacity="0.47"/><circle cx="412" cy="68" r="1.1" fill="#e0d9ff" opacity="0.59"/><circle cx="549" cy="135" r="1.1" fill="#e0d9ff" opacity="0.64"/>
+ <g font-family="DejaVu Sans, Arial, sans-serif">
+  <text x="78" y="74" font-size="16" font-weight="700" letter-spacing="4" fill="#bcaaf6">HELLO, WORLD.</text>
+  <text x="74" y="181" font-size="82" font-weight="700" letter-spacing="-3" fill="#faf8ff">Bhavana</text>
+  <text x="76" y="257" font-size="59" font-weight="600" letter-spacing="-2" fill="#e6dfff">Ramakrishna</text>
+  <text x="80" y="306" font-size="23" fill="#c7bddf">Building useful things. Exploring what’s possible.</text>
+  <rect x="79" y="345" width="116" height="36" rx="18" fill="#a88bfa" fill-opacity="0.16" stroke="#a88bfa" stroke-opacity="0.35"/>
+  <text x="137" y="369" text-anchor="middle" font-size="15" fill="#ded3ff">Full-stack</text>
+  <rect x="207" y="345" width="83" height="36" rx="18" fill="#8fddce" fill-opacity="0.12" stroke="#8fddce" stroke-opacity="0.3"/>
+  <text x="248" y="369" text-anchor="middle" font-size="15" fill="#c5f0e7">Data</text>
+  <rect x="302" y="345" width="67" height="36" rx="18" fill="#ecadc8" fill-opacity="0.12" stroke="#ecadc8" stroke-opacity="0.3"/>
+  <text x="335" y="369" text-anchor="middle" font-size="15" fill="#f4d2e1">ML</text>
+ </g>
+ <g transform="translate(0 0.00)">
+  <ellipse cx="1120" cy="222" rx="182" ry="143" fill="none" stroke="#b297f4" stroke-opacity="0.19"/>
+  <ellipse cx="1120" cy="222" rx="215" ry="178" fill="none" stroke="#b297f4" stroke-opacity="0.1"/>
+  <path d="M928 93 C1030 93 1065 135 1080 174 M1229 326 C1200 296 1150 295 1147 263" fill="none" stroke="url(#line)" stroke-opacity="0.6" stroke-width="2"/>
+  <rect x="917" y="152" width="354" height="154" rx="20" fill="#19172f" stroke="#b9a0f1" stroke-opacity="0.33"/>
+  <rect x="918" y="153" width="352" height="33" rx="19" fill="#b6a0ea" fill-opacity="0.06"/>
+  <circle cx="940" cy="169" r="4" fill="#efb0c9"/><circle cx="956" cy="169" r="4" fill="#bca1ef"/><circle cx="972" cy="169" r="4" fill="#8bd0c4"/>
+  <g font-family="DejaVu Sans Mono, monospace" font-size="18">
+   <text x="944" y="224" fill="#bba2ff">const <tspan fill="#f1ebff">bhavana</tspan> = {</text>
+   <text x="968" y="254" fill="#dcd3f1">curiosity: <tspan fill="#8fe0ce">'always'</tspan></text>
+   <text x="944" y="283" fill="#bba2ff">};</text>
+  </g>
+  <g font-family="DejaVu Sans, Arial, sans-serif"><rect x="866" y="79" width="131" height="46" rx="13" fill="#302648" stroke="#a18bc6" stroke-opacity="0.36"/><text x="931" y="109" text-anchor="middle" font-size="17" fill="#e4dbf8">&lt;build /&gt;</text>
+  <rect x="1179" y="322" width="124" height="45" rx="13" fill="#2b2946" stroke="#b9a2ee" stroke-opacity="0.38"/><text x="1241" y="351" text-anchor="middle" font-size="17" fill="#c5ebdf">learn →</text></g>
+  <circle cx="1290" cy="143" r="8" fill="#bda4fb"/><circle cx="939" cy="325" r="6" fill="#8fd4c4"/>
+  <path d="M1064 84 L1068 96 L1080 100 L1068 104 L1064 116 L1060 104 L1048 100 L1060 96Z" fill="#ebbacf"/>
+ </g></svg>
